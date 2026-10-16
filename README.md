@@ -9,7 +9,7 @@ hey, i'm Moustafa, but online i'm **4t1a**, the one in the traffic cone. i'm a s
 <img src="assets/h-built.svg" height="62" alt="stuff i've built">
 
 <p align="center">
-  <a href="https://github.com/4t1a/razobill"><img src="assets/card-razobill.svg" width="32%" alt="razobill: squishes giant logs and loses nothing. C++20 and DuckDB."></a>
+  <a href="https://github.com/razobill/razobill"><img src="assets/card-razobill.svg" width="32%" alt="razobill: squishes giant logs and loses nothing. C++20 and DuckDB."></a>
   <a href="https://github.com/4t1a/Latitude-Doubt"><img src="assets/card-latitude.svg" width="32%" alt="Latitude-Doubt: a paper on measuring what messages really mean. TeX."></a>
   <a href="https://github.com/4t1a/community-extensions"><img src="assets/card-extensions.svg" width="32%" alt="community-extensions: my fork of DuckDB's community extensions. Shell."></a>
 </p>
@@ -33,9 +33,9 @@ hey, i'm Moustafa, but online i'm **4t1a**, the one in the traffic cone. i'm a s
 
 <img src="assets/h-hi.svg" height="62" alt="say hi">
 
+- **Email:** [m.m.4t1a@gmail.com](mailto:m.m.4t1a@gmail.com)
 - **ORCID:** [0009-0008-6724-4698](https://orcid.org/0009-0008-6724-4698)
 - **LinkedIn:** [in/moustafaat1a](https://www.linkedin.com/in/moustafaat1a)
-<!-- add an email / site line here if you want one -->
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="thanks for scrolling, code is never finished">

@@ -35,7 +35,7 @@ hey, i'm Moustafa, but online i'm **4t1a**, the one in the traffic cone. i'm a s
 
 - **Email:** [m.m.4t1a@gmail.com](mailto:m.m.4t1a@gmail.com)
 - **ORCID:** [0009-0008-6724-4698](https://orcid.org/0009-0008-6724-4698)
-- **LinkedIn:** [in/moustafaat1a](https://www.linkedin.com/in/moustafaat1a)
+- **Peerlist:** [mm4t1a](https://peerlist.io/mm4t1a)
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="thanks for scrolling, code is never finished">
